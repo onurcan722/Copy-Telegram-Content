@@ -8,7 +8,7 @@ TOKEN = '7571900983:AAF4DGffZNM4j0i8D_Uow_CE-y7KR30mWSA'
 CHAT_ID = '@onixkriptoloji' # Paylaşım yapılacak grup veya kanal username'ini @ ile yazın. (Örn: @bihaberimvar)
 
 # Telegram botunu oluşturun
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(7571900983:AAF4DGffZNM4j0i8D_Uow_CE-y7KR30mWSA)
 
 # Daha önce gönderilen mesajların takibi için kullanılacak sözlük
 # Her kanal için ayrı bir liste kullanılacak
