@@ -15,7 +15,7 @@ bot = telebot.TeleBot(TOKEN)
 sent_messages = {}
 
 # İçerik kopyalanacak kanal ve grupların bulunduğu json dosya yolunu yazın
-json_url = 'https://siteadiniz.com/kanallar.json'
+json_url = 'https://github.com/onurcan722/Copy-Telegram-Content/compare/patch-1...onurcan722-patch-1'
 
 channels = {}
 
